@@ -41,4 +41,4 @@ This is a Telegram bot that generates multiple-choice quiz questions about Cucum
 
 ---
 
-**Author:** Your Name
+**Author:** Sumit Tiwari
